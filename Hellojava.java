@@ -3,5 +3,9 @@ public class HelloWorld {
      System.out.println("Hello World ,Update This Method");
 
     }
+	
+ public void printHelloWorld2() {
+     System.out.println("New Method:Hello World2");
 
+    }
 }
