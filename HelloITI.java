@@ -3,4 +3,8 @@ public class HelloITI{
         System.out.println("HellolTI");
   
 
+     public void printHelloGit() {
+        System.out.println("New Method From ITI CLass");
+    }
+		
  }
