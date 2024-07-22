@@ -8,4 +8,10 @@ public class HelloWorld {
      System.out.println("New Method:Hello World2");
 
     }
+
+
+ public void EtchTest() {
+     System.out.println("TestEtch");
+
+    }
 }
