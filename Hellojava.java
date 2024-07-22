@@ -13,5 +13,9 @@ public class HelloWorld {
 	public void helloSultan() {
      System.out.println("Hello Muhamed Sultann");
 
+
+ public void EtchTest() {
+     System.out.println("TestEtch");
+
     }
 }
